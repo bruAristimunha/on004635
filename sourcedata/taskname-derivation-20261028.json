@@ -1,0 +1,15 @@
+{
+  "SourceGitCommit": "5434850c7941331b42f70bb9dd041d9902cc0410",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-S47/eeg/sub-S47_task-resting_eeg.json",
+      "task_token": "resting",
+      "source_files": [
+        "sub-S47/eeg/sub-S47_task-resting_eeg.set"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "146f009a4d576780b0076aa619cdc752cc440f28da60ee26273ad840a8606bd7"
+    }
+  ]
+}
